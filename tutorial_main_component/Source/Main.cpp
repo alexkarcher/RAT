@@ -68,8 +68,11 @@ public:
             setUsingNativeTitleBar (true);
 			
 			//Function to set maincomponent as the content in the new mainwindow
-			setContentOwned(new MainComponent(), true);
-            
+			
+			//Changing both of these allows the window to become resizable
+			setContentOwned(new MainComponent(), false);
+			setResizable(true, true);
+			
 			centreWithSize(getWidth(), getHeight());
 				/*Note that we changed one other detail: the arguments to the 
 				Component::centreWithSize() function have changed as well. We 

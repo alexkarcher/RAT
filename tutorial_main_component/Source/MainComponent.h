@@ -36,7 +36,12 @@ public:
 		sure that this component will never be resizeable in you app).*/
 
 private:
-    JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (MainComponent)
+
+	JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR(MainComponent)
+	
+	//Declare some private variables to be used when resizing the window	
+	String currentSizeAsString;
+	juce::Colour currentColorHSVC;
 };
 
 
