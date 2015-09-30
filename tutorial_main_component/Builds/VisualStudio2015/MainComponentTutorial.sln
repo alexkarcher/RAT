@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2015
+Project("{6E70CF2D-AFB6-C7F7-6FD7-4FA19CFA9B52}") = "MainComponentTutorial", "MainComponentTutorial.vcxproj", "{F59161EC-3F48-3B3B-7D9E-F58252A1BC50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F59161EC-3F48-3B3B-7D9E-F58252A1BC50}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F59161EC-3F48-3B3B-7D9E-F58252A1BC50}.Debug|Win32.Build.0 = Debug|Win32
+		{F59161EC-3F48-3B3B-7D9E-F58252A1BC50}.Release|Win32.ActiveCfg = Release|Win32
+		{F59161EC-3F48-3B3B-7D9E-F58252A1BC50}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

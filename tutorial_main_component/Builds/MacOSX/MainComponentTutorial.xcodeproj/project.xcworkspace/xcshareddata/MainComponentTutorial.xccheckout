@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DA043FD6-04A3-4417-92D2-A4BBDE488DD5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MainComponentTutorial</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9C9CEF98466FB0196F2BD86C6D8641158D48AAEF</key>
+		<string>github.com:WeAreROLI/juce-tutorials.git</string>
+		<key>DEBAC9C6799FD4E8074B3BAF720718E3C3499FA0</key>
+		<string>juce-repo.roli.com:JUCE.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>projects/tutorial_main_component/Builds/MacOSX/MainComponentTutorial.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9C9CEF98466FB0196F2BD86C6D8641158D48AAEF</key>
+		<string>../../../../../..</string>
+		<key>DEBAC9C6799FD4E8074B3BAF720718E3C3499FA0</key>
+		<string>../../../../../../../JUCE</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:WeAreROLI/juce-tutorials.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9C9CEF98466FB0196F2BD86C6D8641158D48AAEF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DEBAC9C6799FD4E8074B3BAF720718E3C3499FA0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JUCE</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9C9CEF98466FB0196F2BD86C6D8641158D48AAEF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JUCE-TUTORIALS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
