@@ -18,5 +18,5 @@ Planned Features
 
 Licensing
 -----
-RAT is released under a [Creative Commons Attribution-ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+RAT is released under a [Creative Commons Attribution-ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-sa/4.0/).
 It is free to use for personal and commercial applications and anyone is free to copy and modify the code so long as they attribute the work to Alex Karcher and this repository and share it under the same license.
